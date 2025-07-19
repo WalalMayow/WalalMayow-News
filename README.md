@@ -1,17 +1,15 @@
-# WalalMayow-News
+# WallMayow-News  
+![Demo Screenshot](/images/demo.png)  
 
-A news/blog website for sharing articles and updates.
+📌 A news/blog website for sharing articles in Somali and English.  
 
-## Features
-- News articles
-- Blog posts
-- Category system
-- User comments
+## Features  
+- 📰 News articles  
+- ✍️ Blog posts  
+- 📂 Category system  
+- 💬 User comments  
 
-## Installation
-1. Clone this repository
-2. Install dependencies: `npm install`
-3. Run the server: `npm start`
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first.
+## Installation  
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/WalalMayow/WallMayow-News.git
