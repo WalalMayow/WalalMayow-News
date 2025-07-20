@@ -12,4 +12,4 @@
 ## Installation  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/WalalMayow/WallMayow-News.git
+   git clone https://github.com/WalalMayow/WallMayow
